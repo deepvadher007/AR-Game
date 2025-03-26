@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dac3f5aaaf444bca8d085f50e9af70a, type: 3}
+  m_Name: WoodenPlaneParent_PlaceableObject
+  m_EditorClassIdentifier: 
+  nameOfObject: WoodenPlaneParent(Clone)
+  uiSprite: {fileID: 2800000, guid: 4b267b4b9afee0145bd9a523dd427aea, type: 3}
+  placementObject: {fileID: 1497420579417182826, guid: 679d8e57ec410bc4dad0187289f97917,
+    type: 3}
+  placementCosts: 0

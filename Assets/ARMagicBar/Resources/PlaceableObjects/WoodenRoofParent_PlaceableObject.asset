@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dac3f5aaaf444bca8d085f50e9af70a, type: 3}
+  m_Name: WoodenRoofParent_PlaceableObject
+  m_EditorClassIdentifier: 
+  nameOfObject: WoodenRoofParent(Clone)
+  uiSprite: {fileID: 2800000, guid: d6b745af20c71e044b159731d1424e3c, type: 3}
+  placementObject: {fileID: 5207904811772529886, guid: 7b0c0ebb4bc8ab94f891ade0b03c721c,
+    type: 3}
+  placementCosts: 0
